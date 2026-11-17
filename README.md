@@ -1,4 +1,4 @@
-Hi, I'm Piyush Mattoo. I'm a Solutions Architect at AWS focused on containers, agentic AI and financial services workloads.
+Hi, this is Piyush Mattoo. Piyush works with enterprises at Amazon Web Services, where he shapes architecture and AI strategy for Fortune 500 customers in regulated industries. He has more than a decade of experience building enterprise-scale distributed systems. He specializes in modern software architecture, containers, generative AI and security.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpmattoo&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpmattoo&layout=compact&theme=merko)
