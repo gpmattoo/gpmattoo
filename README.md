@@ -1,8 +1,5 @@
 Hi, this is Piyush Mattoo. Piyush works with enterprises at Amazon Web Services, where he shapes architecture and AI strategy for Fortune 500 customers in regulated industries. He has more than a decade of experience building enterprise-scale distributed systems. He specializes in modern software architecture, containers, generative AI and security.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpmattoo&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpmattoo&layout=compact&theme=merko)
-
 ![AWS](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
